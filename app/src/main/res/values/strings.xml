@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mediator</string>
+
+
+
+
+        <string name="resolution1">J\'arrête d\'aller à l\'école</string>
+        <string name="resolution2">Fini les légumes vive les sucreries</string>
+        <string name="resolution3">Je commence la cigarette</string>
+
+
+
+    <string-array name="resolution">
+        <item>J\'arrête d\'aller à l\'école</item>
+        <item>Fini les légumes vive les sucreries</item>
+        <item>Je commence la cigarette</item>
+    </string-array>
+
+</resources>
